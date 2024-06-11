@@ -1,0 +1,5 @@
+
+const heroGIF = 'https://s3-alpha-sig.figma.com/img/77ea/e46e/4921166cf2646c0f6f42c6cf4855a5ea?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JonPdHv4IwB1~u5~gh-ljwmE4G2KrNp11qC3rABUhrIMox2yi7ExWWZcKSGC7hZ8OqIoBcTf5Tzh2Ghfj9Fmbu1m5TeKQ0gNUkaGu8sWDNih7fA31-E7ILzVMkfI8MKETpYj99OAJke42hkhATXhtunaRzBw9I~eCCVJH7x38oDd7VYBnpz6QL-sDOfHfgnuTGUIm9b4F4gCzd9YB5cX56Bk7N5X-xjOLkpRxdCHyoD148YDZRf70Da3nTuTLMxtOQB7kgP8hYkxjI1KBmigI4A2EhN9ugAxi2gmUF1SZ4pyNtuLoh95E-WitpIrLtVp~ikQRqiAUsBYCYNqi86B~w__'
+
+
+export default heroGIF
