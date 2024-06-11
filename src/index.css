@@ -3,14 +3,24 @@
 @tailwind utilities;
 
 
-.custom-style-bg{
+
+
+@media (min-width: 1024px) {
+  .lg\:custom-style-bg {
+    clip-path: polygon(0 6%, 100% 0%, 100% 92%, 0 100%);
+  }
+}
+.section-3-bg {
+  @apply bg-section3 p-16 mt-[-78px];
   clip-path: polygon(0 6%, 100% 0%, 100% 92%, 0 100%);
 }
 
-.section-3-bg{
-  clip-path: polygon(0 6%, 100% 0%, 100% 92%, 0 100%);
+@media (min-width: 1024px) {
+  .lg\:section-3-bg {
+    @apply p-32;
+    clip-path: polygon(0 6%, 100% 0%, 100% 92%, 0 100%);
+  }
 }
-
 .inner-bg{
   clip-path: polygon(0 20%, 100% 0%, 100% 84%, 0% 100%);
 

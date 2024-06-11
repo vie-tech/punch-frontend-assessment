@@ -5,7 +5,7 @@ const Parallax = () => {
   return (
    <>
    <section className="">
-    <img src={Union} alt="Union" className="mx-auto w-full" />
+    <img src={Union} alt="Union" className="mx-auto w-full hidden lg:block" />
    </section>
    </>
   )

@@ -7,7 +7,7 @@ import quotes from '../assets/images/quotes.png'
 const Section3 = () => {
   return (
     <>
-      <section className="lg:grid grid-cols-2 bg-section3 relative section-3-bg p-16 lg:p-32 mt-[-78px]">
+      <section className="lg:section-3-bg lg:grid grid-cols-2 bg-section3 relative  p-16 lg:p-32 mt-[-78px]">
         <div className="text-gray-300 mb-20">
           <h1 className=" text-4xl lg:text-6xl font-bold text-white">
             How it worked <br />  for Jason <span><img src={face1} alt="" className='rounded-full inline-block w-10 h-10'/></span> at <br />Groove

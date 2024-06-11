@@ -7,7 +7,7 @@ import icon3 from '../assets/images/icon-3.png'
 const Section2 = () => {
   return (
     <>
-      <section className="custom-style-bg mt-[-37px] grid grid-cols-1 justify-items-center bg-gray-100">
+      <section className="lg:custom-style-bg mt-[-37px] grid grid-cols-1 justify-items-center bg-gray-100">
         <div>
           <h1 className="font-bold text-5xl text-center p-4 mt-20">
             Your one-stop marketplace for finding <br />
