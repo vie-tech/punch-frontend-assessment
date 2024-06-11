@@ -5,7 +5,7 @@ import heroGIF from "../config/hero.config";
 const Hero = () => {
   return (
     <>
-      <section className="py-8 grid grid-cols-1 justify-items-center lg:mt-40">
+      <section className="py-8 grid grid-cols-1 justify-items-center lg:mt-40 mt-20">
         {" "}
         {/* border here */}
         <p className="text-5xl font-bold text-center my-8 inline-block">
