@@ -33,7 +33,7 @@ const Navbar = () => {
       {" "}
       {/* Full width flex container */}
       <section
-        className={`lg:w-3/4 flex justify-between p-4 fixed bg-nav  rounded-lg w-full z-10 transition-all duration-300 ease-in-out ${
+        className={`lg:w-3/4 flex justify-between p-4 fixed bg-nav  rounded-lg w-full z-20 transition-all duration-300 ease-in-out ${
           scrolling ? "scrolled lg:w-full lg:mt-0" : "lg:mt-10"
         }`}
       >
